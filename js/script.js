@@ -18,15 +18,15 @@ const getScrollStep = () => {
 const randmainbase = [
   {
     quote: "Если бы мне пришлось вести эту машину, прошлогоднюю или даже тележку для покупок, я бы повел ее на победу — Максим Ф.",
-    img:"Плейсхолдеры/testwithouterase.png"
+    img:"img/images-Photoroom.png"
   },
   {
     quote: "Если бы мы все могли выбрать, с кем разделить подиум, то, честно говоря, наверное, друг с другом — Жорик Р.",
-    img:"Плейсхолдеры/GR.svg"
+    img:"img/photo_rozanov_phylosophy-Photoroom.png"
   },
   {
     quote: "То, что я спокойный, не значит, что я не беспощадный на трассе. Одно не должно идти в ущерб другому —  Олег П.",
-    img:"Плейсхолдеры/OP.svg"
+    img:"img/Sbulgakov-Photoroom.png"
   }
 ];
 
